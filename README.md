@@ -8,3 +8,8 @@ Machine Learning approaches
 
 Also, you would need to put the datasets(csv files) in the same folder as your ipynb files for them to run.
 
+Note: For voting classifier I am using mlxtend library.
+
+To install mlxtend, just execute
+
+pip install mlxtend  
